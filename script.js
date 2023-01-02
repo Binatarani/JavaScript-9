@@ -46,15 +46,6 @@ id2.style.borderRadius = "10px";
 id2.style.padding = "5px";
 id2.style.fontSize = "40px";
 
-// const class1 = document.getElementsByClassName("class1");
-// console.log(class1);
-// function textHide() {
-//   const class1 = document.getElementsByClassName("class1");
-//   class1.on = "My Text";
-//   on.click = "showText"();
-// }
-// console.log("class1");
-
 // // 6) getAttribute
 // const id2 = document.getElementById("id2");
 // console.log(id2.innerText);
